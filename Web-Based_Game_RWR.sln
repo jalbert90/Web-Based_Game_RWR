@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Response_B", "Response_B\Response_B.njsproj", "{6B3C0490-FB48-4E26-B384-5588AD922307}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "Rewrite", "Rewrite\Rewrite.njsproj", "{6B25F7A7-30DF-4843-B25F-78C56E531019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B3C0490-FB48-4E26-B384-5588AD922307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B3C0490-FB48-4E26-B384-5588AD922307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B3C0490-FB48-4E26-B384-5588AD922307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B3C0490-FB48-4E26-B384-5588AD922307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B25F7A7-30DF-4843-B25F-78C56E531019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B25F7A7-30DF-4843-B25F-78C56E531019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B25F7A7-30DF-4843-B25F-78C56E531019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B25F7A7-30DF-4843-B25F-78C56E531019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6220114-F826-4351-A5B0-5D6AC7BB9AEB}
+	EndGlobalSection
+EndGlobal

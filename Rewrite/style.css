@@ -1,0 +1,38 @@
+button {
+    background-color: blueviolet;
+    color: #fff;
+    padding: 50px;
+    font-size: large;
+}
+
+.container {
+    background-color: lightgray;
+    font-size: 300%;
+    height: 600px;
+    width: 800px;
+    position: relative;
+}
+
+.vertical-top {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.vertical-center {
+    position: absolute;
+    bottom: 30%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.vertical-bottom {
+    position: absolute;
+    bottom: 0%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
